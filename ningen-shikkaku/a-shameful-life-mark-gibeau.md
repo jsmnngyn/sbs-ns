@@ -1,5 +1,5 @@
 Title: No Longer Human
-Translator: Mark Gibeau
+Author: Mark Gibeau
 Year: 2018 (Stone Bridge Press)
 Language: English
 
