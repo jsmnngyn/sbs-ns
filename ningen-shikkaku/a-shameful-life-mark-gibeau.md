@@ -1,6 +1,9 @@
 Title: No Longer Human
+
 Author: Mark Gibeau
+
 Year: 2018
+
 Language: English
 
 ## 1
