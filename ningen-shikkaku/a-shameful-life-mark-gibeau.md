@@ -69,11 +69,11 @@ That’s when I hit upon the idea of the clown.
 ## 21
 It was to be my final attempt at courting humanity. Even though I lived in abject terror of people, I couldn’t abandon them entirely. So I used the single, tenuous thread of the clown to retain my connection. On the surface, a grin never left my face, but on the inside I was locked in a desperate struggle, walking a tightrope, bathed in sweat, the danger of disaster ever imminent as I entertained them.
 
-## 22
 From the time I was a child I have had no conception of the suffering of others or what was going through their minds as they went about their lives, even among my own family. Terrified and unable to endure the relentless awkwardness of human interaction, I found that, without realizing it, I had transformed into an accomplished clown. Before I knew it, I had become a child incapable of uttering a single word of truth.
 
 When I look at my family photographs from that time, everyone is wearing a somber expression, but I alone—without fail—have my face twisted into a peculiar grin. This is one example of my childish, pathetic clowning.
 
+## 22
 What’s more, I never talked back when scolded by my parents, not even once. The smallest scolding seemed to me a deafening thunderclap, and it knocked me down with such tremendous force I thought I might go mad. Far from being able to talk back, such scoldings were like the pronouncement of some profound “Truth,” echoing down the generations and across endless ages. Since I lacked the strength to embody that Truth, even at that age, I had already begun to suspect I might be incapable of living among humans. I was incapable of arguing with others, nor could I stand up for myself. If someone criticized me, my first thought was that the other person must be right, utterly and entirely, I must have made a terrible mistake, it couldn’t be clearer. I endured such attacks in meek silence, but on the inside I writhed in agony, near mad with terror.
 
 ## 23
