@@ -1,5 +1,5 @@
 Title: No Longer Human
-Translator: Juliet Winters Carpenter
+Author: Juliet Winters Carpenter
 Year: 2024 (Tuttle)
 Language: English
 
