@@ -1,9 +1,8 @@
 {
-	"title": "Ningen Shikkaku",
+	"title": "The Road Not Taken",
 	"files": [
-		"ningen-shikkaku/ningen-shikkaku-osamu dazai.md",
-		"ningen-shikkaku/no-longer-human-donald-keene.md",
-		"ningen-shikkaku/a-shameful-life-mark-gibeau.md",
-		"ningen-shikkaku/no-longer-human-juliet-winters-carpenter.md"
+		"the-road-not-taken/robert-frost.md",
+		"the-road-not-taken/hana-zantovska.md",
+		"the-road-not-taken/tomas-jacko.md"
 	]
 }
