@@ -1,5 +1,5 @@
 Title: No Longer Human
-Translator: Donald Keene
+Author: Donald Keene
 Year: 1958 (New Directions)
 Language: English
 
