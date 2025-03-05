@@ -5,7 +5,7 @@ Language: English
 
 ## 1
 Prologue
-
+---
 ## 2
 I have seen three snapshots of him.
 
@@ -26,7 +26,7 @@ The shadow of death itself surely has more expression, makes more of an impressi
 
 ## 8
 Notebook One
-
+---
 ## 9
 I have lived a life of much shame.
 
