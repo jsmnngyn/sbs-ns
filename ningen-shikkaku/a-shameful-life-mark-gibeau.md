@@ -1,4 +1,4 @@
-Title: No Longer Human  
+Title: A Shameful Life  
 Author: Mark Gibeau  
 Year: 2018  
 Language: English  
