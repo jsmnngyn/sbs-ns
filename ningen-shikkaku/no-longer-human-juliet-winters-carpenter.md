@@ -92,10 +92,9 @@ As I stood there fidgeting in silence, Father grew impatient. “What then, anot
 
 The words “Wouldn’t you like that?” paralyzed me. I couldn’t come up with any response, humorous or otherwise. I failed utterly in my role as jester.
 
-##
+## 28
 “He’d probably like a book,” said my oldest brother with a serious expression.
 
-## 
 “A book, is it?” Father’s smile faded in disappointment, and he slapped the notebook shut without writing anything down.
 
 ## 29
