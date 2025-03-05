@@ -5,7 +5,7 @@ Language: English
 
 ## 1
 PROLOGUE
-
+---
 ## 2
 I have seen three pictures of the man.
 
@@ -26,7 +26,7 @@ I think that even a death mask would hold more of an expression, leave more of a
 
 ## 8
 THE FIRST NOTEBOOK
-
+---
 ## 9
 Mine has been a life of much shame.
 
