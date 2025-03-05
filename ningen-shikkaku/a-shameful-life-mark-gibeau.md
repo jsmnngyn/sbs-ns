@@ -5,7 +5,7 @@ Language: English
 
 ## 1
 PREFACE
-
+---
 ## 2
 I’ve seen three pictures of him.
 
@@ -29,7 +29,7 @@ Even the face of someone slipping into death holds some kind of expression, leav
 
 ## 8
 THE FIRST JOURNAL
-
+---
 ## 9
 I have lived a shameful life.
 
