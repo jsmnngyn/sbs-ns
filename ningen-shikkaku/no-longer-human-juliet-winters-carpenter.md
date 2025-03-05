@@ -1,7 +1,7 @@
-Title: No Longer Human
-Author: Juliet Winters Carpenter
-Year: 2024
-Language: English
+Title: No Longer Human  
+Author: Juliet Winters Carpenter  
+Year: 2024  
+Language: English  
 
 ## 1
 Prologue
