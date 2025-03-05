@@ -1,6 +1,6 @@
 Title: No Longer Human
 Author: Juliet Winters Carpenter
-Year: 2024 (Tuttle)
+Year: 2024
 Language: English
 
 ## 1
