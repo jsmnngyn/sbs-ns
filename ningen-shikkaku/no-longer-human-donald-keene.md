@@ -4,8 +4,10 @@ Year: 1958
 Language: English  
 
 ## 1
+
 PROLOGUE
 ---
+
 ## 2
 I have seen three pictures of the man.
 
@@ -25,8 +27,10 @@ The remaining photograph is the most monstrous of all. It is quite impossible in
 I think that even a death mask would hold more of an expression, leave more of a memory. That effigy suggests nothing so much as a human body to which a horse’s head has been attached. Something ineffable makes the beholder shudder in distaste. I have never seen such an inscrutable face on a man.
 
 ## 8
+
 THE FIRST NOTEBOOK
 ---
+
 ## 9
 Mine has been a life of much shame.
 
