@@ -4,8 +4,10 @@ Year: 2024
 Language: English  
 
 ## 1
+
 Prologue
 ---
+
 ## 2
 I have seen three snapshots of him.
 
@@ -25,8 +27,10 @@ The third photo was the most disturbing of all. It was impossible to say how old
 The shadow of death itself surely has more expression, makes more of an impression, than did that face. If you stuck a nag’s head on a human body, would the result be any less monstrous? Somehow, the face in that photo had a chilling, horrifying effect on me. I repeat—never in my life had I seen a man’s face that was so utterly baffling.
 
 ## 8
+
 Notebook One
 ---
+
 ## 9
 I have lived a life of much shame.
 
