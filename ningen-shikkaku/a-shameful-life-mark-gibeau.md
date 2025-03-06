@@ -4,8 +4,10 @@ Year: 2018
 Language: English  
 
 ## 1
+
 PREFACE
 ---
+
 ## 2
 I’ve seen three pictures of him.
 
@@ -28,8 +30,10 @@ The last photo is the most disturbing. I cannot guess his age. His hair is strea
 Even the face of someone slipping into death holds some kind of expression, leaves some kind of mark. But this, maybe this is what it would be like if the head of a carthorse were sewn onto a human body. In any case, a vague sense of revulsion shivers up my spine. Never in my life have I seen a man with such a peculiar face.
 
 ## 8
+
 THE FIRST JOURNAL
 ---
+
 ## 9
 I have lived a shameful life.
 
