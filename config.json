@@ -45,5 +45,5 @@
 		"carpenter-epilogue.md",
 	],
 	"display": { "Language": [ "cs" ] },
-	"metaKeys": [ "Author", "Title", "Year", "Language" ]
+	"metaKeys": [ "Author", "Title", "Year", "Language", "Section" ]
 }
