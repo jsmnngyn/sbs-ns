@@ -42,8 +42,8 @@
 		"carpenter-second.md",
 		"carpenter-third-1.md",
 		"carpenter-third-2.md",
-		"carpenter-epilogue.md",
+		"carpenter-epilogue.md"
 	],
-	"display": { "Language": [ "cs" ] },
+	"display": { "Language": [ "Japanese,English" ] },
 	"metaKeys": [ "Author", "Title", "Year", "Language", "Section" ]
 }
