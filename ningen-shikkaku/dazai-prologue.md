@@ -1,7 +1,7 @@
 Title: 人間失格  
 Author: 太宰 治  
 Year: 1948  
-Language: Japanese
+Language: Japanese  
 Section: 1
 
 ## [1] はしがき
