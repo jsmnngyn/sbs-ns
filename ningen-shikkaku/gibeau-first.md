@@ -1,7 +1,7 @@
 Title: A Shameful Life
 Author: Mark Gibeau  
 Year: 2018  
-Language: English
+Language: English  
 Section: 2
 
 ## [8] THE FIRST JOURNAL
