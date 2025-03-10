@@ -1,9 +1,49 @@
 {
-	"title": "Ningen Shikkaku",
+	"title": "Ningen Shikkaku / No Longer Human",
+	"links": [{
+		"text": "Prologue",
+		"display": { "Section": [ "1" ] }
+	}, {
+		"text": "First Notebook",
+		"display": { "Section": [ "2" ] }
+	}, {
+		"text": "Second Notebook",
+		"display": { "Section": [ "3" ] }
+	}, {
+		"text": "Third Notebook Part 1",
+		"display": { "Section": [ "4" ] }
+	}, {
+		"text": "Third Notebook Part 2",
+		"display": { "Section": [ "5" ] }
+	}, {
+		"text": "Epilogue",
+		"display": { "Section": [ "6" ] }]	
 	"files": [
-		"ningen-shikkaku/ningen-shikkaku-osamu-dazai.md",
-		"ningen-shikkaku/no-longer-human-donald-keene.md",
-		"ningen-shikkaku/a-shameful-life-mark-gibeau.md",
-		"ningen-shikkaku/no-longer-human-juliet-winters-carpenter.md"
-	]
+		"dazai-prologue.md",
+		"dazai-first.md",
+		"dazai-second.md",
+		"dazai-third-1.md",
+		"dazai-third-2.md",
+		"dazai-epilogue.md",
+		"keene-prologue.md",
+		"keene-first.md",
+		"keene-second.md",
+		"keene-third-1.md",
+		"keene-third-2.md",
+		"keene-epilogue.md",
+		"gibeau-prologue.md",
+		"gibeau-first.md",
+		"gibeau-second.md",
+		"gibeau-third-1.md",
+		"gibeau-third-2.md",
+		"gibeau-epilogue.md",
+		"carpenter-prologue.md",
+		"carpenter-first.md",
+		"carpenter-second.md",
+		"carpenter-third-1.md",
+		"carpenter-third-2.md",
+		"carpenter-epilogue.md",
+	],
+	"display": { "Language": [ "cs" ] },
+	"metaKeys": [ "Author", "Title", "Year", "Language" ]
 }
