@@ -1,7 +1,7 @@
 Title: No Longer Human  
 Author: Donald Keene  
 Year: 1958  
-Language: English
+Language: English  
 Section: 2
 
 ## [8] THE FIRST NOTEBOOK
