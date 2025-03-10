@@ -1,7 +1,7 @@
 Title: No Longer Human  
 Author: Donald Keene  
 Year: 1958  
-Language: English
+Language: English  
 Section: 1
 
 ## [1] PROLOGUE
